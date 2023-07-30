@@ -1,0 +1,16 @@
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\bin\Debug\net5.0\TesteNovip2.exe
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\bin\Debug\net5.0\TesteNovip2.deps.json
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\bin\Debug\net5.0\TesteNovip2.runtimeconfig.json
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\bin\Debug\net5.0\TesteNovip2.runtimeconfig.dev.json
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\bin\Debug\net5.0\TesteNovip2.dll
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\bin\Debug\net5.0\TesteNovip2.pdb
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\obj\Debug\net5.0\TesteNovip2.csproj.AssemblyReference.cache
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\obj\Debug\net5.0\TesteNovip2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\obj\Debug\net5.0\TesteNovip2.AssemblyInfoInputs.cache
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\obj\Debug\net5.0\TesteNovip2.AssemblyInfo.cs
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\obj\Debug\net5.0\TesteNovip2.csproj.CoreCompileInputs.cache
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\obj\Debug\net5.0\TesteNovip2.dll
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\obj\Debug\net5.0\refint\TesteNovip2.dll
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\obj\Debug\net5.0\TesteNovip2.pdb
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\obj\Debug\net5.0\TesteNovip2.genruntimeconfig.cache
+C:\Users\italo\source\repos\TesteNovip2\TesteNovip2\obj\Debug\net5.0\ref\TesteNovip2.dll
